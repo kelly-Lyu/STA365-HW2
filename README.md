@@ -1,6 +1,6 @@
 # STA365-HW2
 
-This repository contains solutions for Homework 2. Each question addresses key concepts in Bayesian inference and decision-making:
+This repository contains solutions for Homework 2.
 
 Question 1: Posterior Distribution Updates
 
